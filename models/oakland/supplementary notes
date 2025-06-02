@@ -1,0 +1,5 @@
+    The model fed the character in BlueOath:Oakland's audio files and the character in game:Aokana: Four Rhythm Across the Blue,named as 鳶沢みさき.
+    These two characters'voices are so similar(the same voice actor and the  sound ray) that I can put them audio in a training set.
+    Theoretically,the model can be used as Oakland,and also can be used as 鳶沢みさき.
+    About the reference: the training set includes more than 5 thousand pieces of voice audio,the cumulative time lasts over 3h so that I trained it for 0.5million turns and no error happened when training it.
+    So,have fun with the Oakland/鳶沢みさき voice model!
